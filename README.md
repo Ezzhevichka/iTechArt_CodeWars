@@ -28,3 +28,15 @@
 13.js -> Sixteen circles (https://www.codewars.com/kata/589896b99c70093f3e00005b/train/javascript);
 
 14.js -> Calculate number of inversions in array (https://www.codewars.com/kata/537529f42993de0e0b00181f/train/javascript);
+
+15.js -> Is a number prime? (https://www.codewars.com/kata/5262119038c0985a5b00029f/train/javascript);
+
+16.js -> No arithmetic progressions (https://www.codewars.com/kata/5e0607115654a900140b3ce3/train/javascript);
+
+17.js -> Persistent Bugger. (https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript);
+
+18.js -> Count the divisible numbers (https://www.codewars.com/kata/55a5c82cd8e9baa49000004c/train/javascript);
+
+19.js -> Build a pile of Cubes (https://www.codewars.com/kata/5592e3bd57b64d00f3000047/train/javascript);
+
+20.js -> Pentabonacci (https://www.codewars.com/kata/55c9172ee4bb15af9000005d/train/javascript);
