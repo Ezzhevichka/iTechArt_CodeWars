@@ -14,3 +14,17 @@
 6.js -> Does my number look big in this? (https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/javascript);
 
 7.js -> SumFibs (https://www.codewars.com/kata/56662e268c0797cece0000bb/train/javascript);
+
+8.js -> Twisted Sum (https://www.codewars.com/kata/527e4141bb2ea5ea4f00072f/train/javascript);
+
+9.js -> Thinking & Testing: A * B? (https://www.codewars.com/kata/5a90c9ecb171012b47000077/train/javascript);
+
+10.js -> The Non-Discriminate Factorial (https://www.codewars.com/kata/53fe2171d5679bff300007d9/train/javascript);
+
+11.js -> Points in the circle (https://www.codewars.com/kata/5b55c49d4a317adff500015f/train/javascript);
+
+12.js -> Corner circle (https://www.codewars.com/kata/5898761a9c700939ee000011/train/javascript);
+
+13.js -> Sixteen circles (https://www.codewars.com/kata/589896b99c70093f3e00005b/train/javascript);
+
+14.js -> Calculate number of inversions in array (https://www.codewars.com/kata/537529f42993de0e0b00181f/train/javascript);
